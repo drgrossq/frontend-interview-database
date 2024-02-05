@@ -1,6 +1,6 @@
 # Frontend Developer Interview Questions and Answers
 
-Вопросы, которые могут задать на собеседовании с ответами.
+Вопросы для подготовки к собеседованию на должность Frontend Developer.
 
 ## Содержание:
 
