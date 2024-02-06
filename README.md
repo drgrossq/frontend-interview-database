@@ -10,9 +10,9 @@
 
 ### HTML
 
-###### 1. Для чего нужен doctype?
+##### 1. Для чего нужен doctype?
 
-<details><summary><b>Ответ</b></summary>
+<details><summary><b>Ответ:</b></summary>
 <p>
 
 #### Ответ:
