@@ -1,6 +1,6 @@
 # Frontend Developer Interview Questions and Answers
 
-Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в базе 2 вопроса.
+Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 3 вопроса.
 
 ## Содержание:
 
@@ -48,6 +48,42 @@
 - [Спецификация](https://www.w3.org/TR/css-display-3/)
 - [Дока](https://doka.guide/css/display/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
+</p>
+</details>
+
+##### 2. @keyframes - для чего нужно и как использовать?
+
+<details><summary><b>Ответ:</b></summary>
+<p>
+
+Директива `@keyframes` используется для создания _ключевых кадров_ CSS-анимаций. После ключевого слова `@keyframes` мы должны написать имя анимации. Оно понадобится нам, чтобы связать анимацию для конкретного элемента с ключевыми кадрами. Ключевые кадры могут прописываться при помощи ключевых слов from (начальный кадр) и to (конечный кадр). Если же кадров больше двух, то можно использовать проценты. Пример:
+
+```CSS
+div {
+  animation: diagonal-slide 1s infinite;
+}
+
+@keyframes diagonal-slide {
+
+  from {
+    left: 0;
+    top: 0;
+  }
+
+  to {
+    left: 100px;
+    top: 100px;
+  }
+
+}
+```
+
+##### Источники:
+
+- [Спецификация](https://www.w3.org/TR/css-animations-1/#keyframes)
+- [Дока](https://doka.guide/css/keyframes/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 
 </p>
 </details>
