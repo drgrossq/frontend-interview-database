@@ -87,3 +87,19 @@ div {
 
 </p>
 </details>
+
+#### 3. Что делает box-sizing: border-box?
+
+<details><summary><b>Ответ:</b></summary>
+<p>
+
+Свойство `box-sizing` определяет как вычисляется общая ширина и высота элемента. По умолчанию размером элемента считается размер контентной области. Если кроме `width` и `height` указать ещё и `padding` с `border`, то браузер посчитает размер элемента как `width + padding * 2 + border * 2 и height + padding * 2 + border * 2`. Если задать значение `border-box` для свойства `box-sizing`, то браузер изменит принцип расчёта и `padding` с `border` уже будут включены в `width` и `height`.
+
+##### Источники:
+
+- [Спецификация](https://www.w3.org/TR/css-sizing-3/#box-sizing)
+- [Дока](https://doka.guide/css/box-sizing/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
+</p>
+</details>
