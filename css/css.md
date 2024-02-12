@@ -53,7 +53,6 @@ div {
 
 #### 3. Что делает box-sizing: border-box?
 
-
 Свойство `box-sizing` определяет как вычисляется общая ширина и высота элемента. По умолчанию размером элемента считается размер контентной области. Если кроме `width` и `height` указать ещё и `padding` с `border`, то браузер посчитает размер элемента как `width + padding * 2 + border * 2 и height + padding * 2 + border * 2`. Если задать значение `border-box` для свойства `box-sizing`, то браузер изменит принцип расчёта и `padding` с `border` уже будут включены в `width` и `height`.
 
 ##### Источники:
@@ -61,3 +60,21 @@ div {
 - [Спецификация](https://www.w3.org/TR/css-sizing-3/#box-sizing)
 - [Дока](https://doka.guide/css/box-sizing/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
+---
+
+#### 4. Разница между margin и padding?
+
+`margin` - задаёт размер внешнего отступа вокруг элемента. Верхний и нижний отступы не работают для элементов `<span>`, `<code>` и других строчных элементов. Выход в данной ситуации — сделать строчные элементы строчно-блочными (`inline-block`) или блочными (`block`).
+`padding` - устанавливает внутренние отступы со всех сторон элемента. Область отступов это пространство между содержанием элемента и его границей. Отрицательные значения не допускаются.
+
+![CSS Box Model](../img/CSS%20Box%20Model.png)
+
+##### Источники:
+
+- [Спецификация по margin](https://drafts.csswg.org/css-box/#margins)
+- [Спецификация по padding](https://drafts.csswg.org/css-box/#paddings)
+- [Дока по margin](https://doka.guide/css/margin/)
+- [Дока по padding](https://doka.guide/css/padding/)
+- [MDN по margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+- [MDN по padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
