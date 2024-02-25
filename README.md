@@ -1,6 +1,6 @@
 # Frontend Developer Interview Questions and Answers
 
-Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 5 вопроса.
+Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 6 вопросов.
 
 ## Содержание:
 
@@ -13,7 +13,6 @@
 
 [1. Для чего нужен doctype?](html/html.md#1-для-чего-нужен-doctype)
 
-
 ### CSS
 
 [1. Свойство display - основные значения и как они работают.](css/css.md#1-свойство-display---основные-значения-и-как-они-работают)
@@ -23,3 +22,5 @@
 [3. Что делает box-sizing: border-box?](css/css.md#3-что-делает-box-sizing-border-box)
 
 [4. Разница между margin и padding?](css/css.md#4-разница-между-margin-и-padding)
+
+[5. Чем border отличается от outline?](css/css.md#5-чем-border-отличается-от-outline)

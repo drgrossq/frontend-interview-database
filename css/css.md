@@ -78,3 +78,18 @@ div {
 - [Дока по padding](https://doka.guide/css/padding/)
 - [MDN по margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
 - [MDN по padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
+
+---
+
+#### 5. Чем border отличается от outline?
+
+`outline` - это линия за пределами рамки элемента и в отличии от `border` не влияет на размеры элемента т.к. `outline` не является частью блочной модели CSS. 
+
+##### Источники:
+
+- [Спецификация по border](https://www.w3.org/TR/css-backgrounds-3/#propdef-border)
+- [Спецификация по outline](https://www.w3.org/TR/css-ui-4/#outline-props)
+- [Дока по border](https://doka.guide/css/border/)
+- [Дока по outline](https://doka.guide/css/outline/)
+- [MDN по border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+- [MDN по outline](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
