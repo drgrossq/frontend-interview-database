@@ -12,6 +12,7 @@
 ### HTML
 
 [1. Для чего нужен doctype?](html/html.md#1-для-чего-нужен-doctype)
+[2. Что такое режим совместимости (Quirks Mode) и стандартный режим (Standards Mode)?](html/html.md#2-что-такое-режим-совместимости-quirks-mode-и-стандартный-режим-standards-mode)
 
 ### CSS
 
