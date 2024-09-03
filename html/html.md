@@ -10,6 +10,8 @@
 - [Дока](https://doka.guide/html/doctype/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Doctype)
 
+---
+
 #### 2. Что такое режим совместимости (Quirks Mode) и стандартный режим (Standards Mode)?
 
 **Ответ:**
