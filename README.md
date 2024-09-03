@@ -1,6 +1,6 @@
 # Frontend Developer Interview Questions and Answers
 
-Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 9 вопросов.
+Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 10 вопросов.
 
 ## Содержание:
 
@@ -18,6 +18,8 @@
 [3. В чем разница между HTML и XHTML?](html/html.md#3-в-чем-разница-между-html-и-xhtml)
 
 [4. Какая связь между SGML, HTML, XML и XHTML?](html/html.md#4-какая-связь-между-sgml-html-xml-и-xhtml)
+
+[5. В чем отличия HTML5 от HTML4.01 и XHTML1.0?](html/html.md#5-в-чем-отличия-html5-от-html401-и-xhtml10)
 
 ### CSS
 
