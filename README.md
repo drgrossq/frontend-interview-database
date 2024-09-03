@@ -1,6 +1,6 @@
 # Frontend Developer Interview Questions and Answers
 
-Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 8 вопросов.
+Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 9 вопросов.
 
 ## Содержание:
 
@@ -16,6 +16,8 @@
 [2. Что такое режим совместимости (Quirks Mode) и стандартный режим (Standards Mode)?](html/html.md#2-что-такое-режим-совместимости-quirks-mode-и-стандартный-режим-standards-mode)
 
 [3. В чем разница между HTML и XHTML?](html/html.md#3-в-чем-разница-между-html-и-xhtml)
+
+[4. Какая связь между SGML, HTML, XML и XHTML?](html/html.md#4-какая-связь-между-sgml-html-xml-и-xhtml)
 
 ### CSS
 
