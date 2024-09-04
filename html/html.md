@@ -267,3 +267,20 @@ Cледуя этим рекомендациям, можно обеспечить
 - [Google developers](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites?hl=ru)
 - [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Internationalization)
 - [Спецификация](https://www.w3.org/International/techniques/developing-schemas)
+
+---
+
+#### 8. Для чего нужны data-атрибуты?
+
+**Ответ:**
+
+data-атрибуты позволяют хранить пользовательские данные прямо в HTML-элементах без нарушения семантики кода. Они были введены в HTML5 и широко используются для передачи данных в JavaScript.
+
+data-атрибуты удобны для хранения информации, связанной с элементом, такой как идентификаторы, статусы или метаданные, которую затем можно использовать в скриптах для изменения поведения страницы. Их можно легко прочитать и изменить с помощью свойства dataset в JavaScript.
+
+Основные преимущества data-атрибутов — это универсальность и простота использования. Они позволяют хранить данные прямо в HTML, не создавая лишних элементов и не нарушая структуры страницы. Однако важно помнить, что data-атрибуты не подходят для хранения конфиденциальной информации, так как они видны в коде страницы.
+
+##### Источники:
+
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+- [Спецификация](https://html.spec.whatwg.org/multipage/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes)
