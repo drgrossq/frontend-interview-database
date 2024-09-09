@@ -1,6 +1,6 @@
 # Frontend Developer Interview Questions and Answers
 
-Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 15 вопросов.
+Вопросы для подготовки к собеседованию на должность Frontend Developer. На данный момент в репозитории 16 вопросов.
 
 ## Содержание:
 
@@ -30,6 +30,8 @@
 [9. Представьте HTML5 как открытую веб-платформу. Из каких блоков состоит HTML5?](html/html.md#9-представьте-html5-как-открытую-веб-платформу-из-каких-блоков-состоит-html5)
 
 [10. Объясните разницу между cookie, sessionStorage и localStorage](html/html.md#10-объясните-разницу-между-cookie-sessionstorage-и-localstorage)
+
+[11. Объясните разницу между <script>, <script async> и <script defer>?](html/html.md#11-объясните-разницу-между---и-)
 
 ### CSS
 
