@@ -401,8 +401,8 @@ div {
 
 ##### Источники:
 
-- [Документация MDN по свойству `z-index`](https://developer.mozilla.org/ru/docs/Web/CSS/z-index)
+- [MDN](https://developer.mozilla.org/ru/docs/Web/CSS/z-index)
 - [CSS Tricks: Понимание контекста наложения](https://css-tricks.com/almanac/properties/z/z-index/)
-- [Smashing Magazine: Секреты `z-index` и контекста наложения](https://www.smashingmagazine.com/2014/05/understanding-z-index/)
+- [Дока](https://doka.guide/css/stacking-context/)
 
 ---
