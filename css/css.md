@@ -1061,9 +1061,7 @@ BFC создаётся в следующих случаях:
 
    Пример:
    ```html
-   <img src="small.jpg" alt="image
-
-" media="(max-width: 768px)">
+   <img src="small.jpg" alt="image" media="(max-width: 768px)">
    <img src="large.jpg" alt="image" media="(min-width: 769px)">
    ```
 
@@ -1076,7 +1074,7 @@ BFC создаётся в следующих случаях:
 
 ---
 
-#### 18. 
+#### 18 Вы знакомы со стилизацией SVG? 
 
 Да, SVG (Scalable Vector Graphics) — это формат векторной графики, который можно стилизовать с помощью CSS. Существует несколько способов стилизации SVG.
 
